@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-08T14:11:04Z" name="Default suite" finished-at="2024-08-08T14:11:06Z" duration-ms="2315">
+  <suite started-at="2024-08-14T08:16:28Z" name="Default suite" finished-at="2024-08-14T08:17:48Z" duration-ms="79594">
     <groups>
     </groups>
-    <test started-at="2024-08-08T14:11:04Z" name="Default test" finished-at="2024-08-08T14:11:06Z" duration-ms="2315">
-      <class name="ComparePDF.PDF01.PDFReader">
-        <test-method signature="readPDFFile()[pri:0, instance:ComparePDF.PDF01.PDFReader@5be1d0a4]" started-at="2024-08-08T14:11:04Z" name="readPDFFile" finished-at="2024-08-08T14:11:06Z" duration-ms="2236" status="PASS">
+    <test started-at="2024-08-14T08:16:28Z" name="Default test" finished-at="2024-08-14T08:17:48Z" duration-ms="79594">
+      <class name="com.SvgGraphElement.ComplexSVGGraph">
+        <test-method signature="getSvgGraph()[pri:0, instance:com.SvgGraphElement.ComplexSVGGraph@4f49f6af]" started-at="2024-08-14T08:16:28Z" name="getSvgGraph" finished-at="2024-08-14T08:17:48Z" duration-ms="79544" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- readPDFFile -->
-      </class> <!-- ComparePDF.PDF01.PDFReader -->
+        </test-method> <!-- getSvgGraph -->
+      </class> <!-- com.SvgGraphElement.ComplexSVGGraph -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
